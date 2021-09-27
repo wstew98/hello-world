@@ -1,4 +1,0 @@
-[submodule "router_linux-5.4.y"]
-	path = router_linux-5.4.y
-	url = git@github.com:Perle-Systems-Limited/router_linux-5.4.y.git
-	branch = main
