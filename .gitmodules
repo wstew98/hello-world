@@ -1,0 +1,3 @@
+[submodule "testSubModule"]
+	path = testSubModule
+	url = git@github.com:wstew98/testSubModule.git
