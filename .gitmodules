@@ -4,4 +4,4 @@
 [submodule "testSubModule2"]
 	path = testSubModule2
 	url = git@github.com:wstew98/testSubModule2.git
-	branch = main
+	
